@@ -1,6 +1,5 @@
-<h3>🎨 Follow me here 🎨
-</h3> 
-<hr>
+<p align="center">
+  <b>📷 SOCIAL/CONTACT ☎️</b><br></p>
 <p align="center"
   <a href="https://discord.gg/54wYBGhdWP"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="center" target="_blank"></a>    |   
   <a href="https://github.com/H0TWheels"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" target="_blank"></a>    |    
@@ -8,7 +7,7 @@
   </p>
 
 ```bash
-> Computing Science student
+> Computer Science student
 ```
 
 <img src="https://i.pinimg.com/originals/de/54/8b/de548b9e5387b43026381672aa72616d.gif" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="330">
@@ -19,7 +18,7 @@ H0TWheels@github
 
        OS  :  Windows
  
-      CPU  :  I5
+      CPU  :  i5
       
     Alias  :  H0TWheels
     
