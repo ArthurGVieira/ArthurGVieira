@@ -13,7 +13,6 @@
 <img src="https://i.pinimg.com/originals/de/54/8b/de548b9e5387b43026381672aa72616d.gif" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="310">
 
 ```py
-
 H0TWheels@github
 ----------------
 
@@ -29,7 +28,8 @@ Languages  :  Python, C, Java
 
   Contact  :  arthurgaburovieira@gmail.com
   
-
+  Learning :  Requests with proxys
+  
 ```
 <hr>
 
