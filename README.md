@@ -1,9 +1,43 @@
-- 👋 Hi, I’m @H0TWheels
-- 🌱 I’m currently learning WebScraping, Requests, Java.
-- 📫 How to reach me: arthurgaburovieira@gmail.com
-- 💻 Languages: Python, C and Java...
+<h3>🎨 Follow me here 🎨
+</h3> 
+<hr>
+<p align="center"
+  <a href="https://discord.gg/54wYBGhdWP"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="center" target="_blank"></a>    |   
+  <a href="https://github.com/H0TWheels"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" target="_blank"></a>    |    
+  <a href = "mailto:arthurgaburovieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" align="center" target="_blank"</a>
+  </p>
 
-<!---
-H0TWheels/H0TWheels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```bash
+> Computing Science student
+```
+
+<img src="https://i.pinimg.com/originals/de/54/8b/de548b9e5387b43026381672aa72616d.gif" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="330">
+
+```py
+H0TWheels@github
+----------------
+
+       OS  :  Windows
+ 
+      CPU  :  I5
+      
+    Alias  :  H0TWheels
+    
+    Infos  :  Independent Developer
+    
+Languages  :  Python, C, Java
+
+  Contact  :  arthurgaburovieira@gmail.com
+  
+
+```
+<hr>
+
+<p align="left">
+  <a href="https://plasmonix.github.io">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=H0TWheels&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=H0TWheels&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+<hr>
