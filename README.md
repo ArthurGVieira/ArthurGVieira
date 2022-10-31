@@ -18,7 +18,7 @@
 
        OS  :  Windows
  
-      CPU  :  i5
+      CPU  :  I5
       
     Alias  :  H0TWheels
     
