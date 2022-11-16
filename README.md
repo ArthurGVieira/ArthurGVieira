@@ -1,7 +1,6 @@
 <p align="center">
   <b>📷 Social/Contact ☎️</b><br></p>
 <p align="center"
-  <a href="https://discord.gg/54wYBGhdWP"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="center" target="_blank"></a>    |   
   <a href="https://github.com/H0TWheels"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" target="_blank"></a>    |    
   <a href = "mailto:arthurgaburovieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" align="center" target="_blank"</a>
   </p>
