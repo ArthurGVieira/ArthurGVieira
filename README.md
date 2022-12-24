@@ -34,8 +34,8 @@ Languages  :  Python, C, Java
 
 <p align="left">
   <a href="https://plasmonix.github.io">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=H0TWheels&show_icons=true&theme=dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=H0TWheels&theme=dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ArthurGVieira&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurGVieira&theme=dark&hide_border=true" />
   </a>
 </p>
 
