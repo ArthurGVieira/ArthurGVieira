@@ -1,7 +1,7 @@
 <p align="center">
   <b>📷 Social/Contact ☎️</b><br></p>
 <p align="center"
-  <a href="https://github.com/H0TWheels"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" target="_blank"></a>    |    
+  <a href="https://github.com/ArthurGVieira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center" target="_blank"></a>    |    
   <a href = "mailto:arthurgaburovieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" align="center" target="_blank"</a>
   </p>
 
@@ -12,7 +12,7 @@
 <img src="https://i.pinimg.com/originals/de/54/8b/de548b9e5387b43026381672aa72616d.gif" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="323">
 
 ```py
-    H0TWheels@github
+    ArthurGVieira@github
     ----------------
 
        OS  :  Windows
