@@ -23,7 +23,7 @@
     
     Infos  :  Independent Developer
     
-Languages  :  Python, C, Java
+Languages  :  Python, C, Arduino
 
   Contact  :  arthurgaburovieira@gmail.com
   
