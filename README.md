@@ -18,8 +18,6 @@
        OS  :  Windows
  
       CPU  :  I5
-      
-    Alias  :  H0TWheels
     
     Infos  :  Independent Developer
     
