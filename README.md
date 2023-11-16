@@ -21,11 +21,11 @@
     
     Infos  :  Independent Developer
     
-Languages  :  Python, C, Arduino
+Languages  :  Python, C, C++, Arduino, JS
 
   Contact  :  arthurgaburovieira@gmail.com
   
-  Learning :  Requests With Proxys
+  Angular fullstack developer
   
 ```
 <hr>
