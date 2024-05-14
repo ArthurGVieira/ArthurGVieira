@@ -24,6 +24,8 @@ Languages  :  Python, C, C++, Arduino, JS
   Contact  :  arthurgaburovieira@gmail.com
   
   Angular fullstack developer
+
+  React fullstack developer
   
 ```
 <hr>
