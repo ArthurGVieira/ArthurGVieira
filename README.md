@@ -16,8 +16,6 @@
     ----------------
 
        OS  :  Windows
- 
-      CPU  :  I5
     
     Infos  :  Independent Developer
     
